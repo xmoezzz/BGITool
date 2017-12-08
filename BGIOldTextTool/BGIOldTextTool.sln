@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BGITextExtractOld", "BGITextExtractOld\BGITextExtractOld.vcxproj", "{7B9AF296-921A-4363-B820-94B211801F95}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScriptOldPacker", "ScriptOldPacker\ScriptOldPacker.vcxproj", "{8D463FB9-67A3-48F3-B3FF-66F3368B8C93}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BGIOldDisasm", "BGIOldDisasm\BGIOldDisasm.vcxproj", "{2348CF93-75BD-4535-944B-EDA1BA999D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9AF296-921A-4363-B820-94B211801F95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B9AF296-921A-4363-B820-94B211801F95}.Debug|Win32.Build.0 = Debug|Win32
+		{7B9AF296-921A-4363-B820-94B211801F95}.Release|Win32.ActiveCfg = Release|Win32
+		{7B9AF296-921A-4363-B820-94B211801F95}.Release|Win32.Build.0 = Release|Win32
+		{8D463FB9-67A3-48F3-B3FF-66F3368B8C93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D463FB9-67A3-48F3-B3FF-66F3368B8C93}.Debug|Win32.Build.0 = Debug|Win32
+		{8D463FB9-67A3-48F3-B3FF-66F3368B8C93}.Release|Win32.ActiveCfg = Release|Win32
+		{8D463FB9-67A3-48F3-B3FF-66F3368B8C93}.Release|Win32.Build.0 = Release|Win32
+		{2348CF93-75BD-4535-944B-EDA1BA999D9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2348CF93-75BD-4535-944B-EDA1BA999D9B}.Debug|Win32.Build.0 = Debug|Win32
+		{2348CF93-75BD-4535-944B-EDA1BA999D9B}.Release|Win32.ActiveCfg = Release|Win32
+		{2348CF93-75BD-4535-944B-EDA1BA999D9B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

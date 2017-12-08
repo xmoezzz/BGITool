@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016-04-27 11:28:26 PM。
+     1>项目“C:\BGITextDumper\BGITextDumper\BGITextDumper.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BGITextDumper.cpp
+         BGITextDumper.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\BGITextDumper\Release\BGITextDumper.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\BGITextDumper\Release\BGITextDumper.pdb" /SUBSYSTEM:CONSOLE,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\BGITextDumper\Release\BGITextDumper.lib" /MACHINE:X86 /SAFESEH Release\BGITextDumper.obj
+         Release\Instruction.obj
+         正在生成代码
+         已完成代码的生成
+         BGITextDumper.vcxproj -> C:\BGITextDumper\Release\BGITextDumper.exe
+     1>已完成生成项目“C:\BGITextDumper\BGITextDumper\BGITextDumper.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.82
