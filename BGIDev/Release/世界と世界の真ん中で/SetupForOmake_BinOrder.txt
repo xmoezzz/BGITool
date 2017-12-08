@@ -1,0 +1,9 @@
+[0x00000164]SetupForGallery
+;[0x00000164]SetupForGallery
+
+[0x00000174]SetupForReplay
+;[0x00000174]SetupForReplay
+
+[0x00000183]SetupForMusic
+;[0x00000183]SetupForMusic
+

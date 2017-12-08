@@ -1,0 +1,9 @@
+[0x000002f2]sd_e03_01
+;[0x000002f2]sd_e03_01
+
+[0x000002fc]BG_Black
+;[0x000002fc]BG_Black
+
+[0x00000305]#FFFFFF
+;[0x00000305]#FFFFFF
+

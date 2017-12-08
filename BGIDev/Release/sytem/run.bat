@@ -1,0 +1,1 @@
+for %%s in (*._bp) do BpExtractText.exe "%%s"

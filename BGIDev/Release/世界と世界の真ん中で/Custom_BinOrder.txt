@@ -1,0 +1,12 @@
+[0x000005b3]星座は１～８９で指定してください！
+;[0x000005b3]星座は１～８９で指定してください！
+
+[0x000005d6]_DebugDisplayStrings
+;[0x000005d6]_DebugDisplayStrings
+
+[0x000005eb]_GetGF2
+;[0x000005eb]_GetGF2
+
+[0x000005f3]_SetGF2
+;[0x000005f3]_SetGF2
+

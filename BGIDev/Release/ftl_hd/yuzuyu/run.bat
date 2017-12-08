@@ -1,0 +1,1 @@
+for %%s in (*.*) do BGITextDumper.exe "%%s"
