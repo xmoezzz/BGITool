@@ -29,3 +29,6 @@
 
 *.txt
 *.bin
+
+#my binary
+_patchSample\tayutamaFD_chs\Release

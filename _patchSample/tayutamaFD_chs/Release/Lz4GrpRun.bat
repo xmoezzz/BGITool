@@ -1,0 +1,1 @@
+for %%s in (*.out) do Lz4Packer.exe "%%s"

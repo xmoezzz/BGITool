@@ -1,0 +1,1 @@
+for %%s in (*.new) do ScriptComp.exe "%%s"

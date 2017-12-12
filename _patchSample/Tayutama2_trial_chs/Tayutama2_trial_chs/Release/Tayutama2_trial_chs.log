@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016-07-04 5:32:30 PM。
+     1>项目“C:\Tayutama2_trial_chs\Tayutama2_trial_chs\Tayutama2_trial_chs.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _USING_V110_SDK71_ /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HardwareInfo.cpp
+         HardwareInfo.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Tayutama2_trial_chs\Release\Tayutama2_trial_chs.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Tayutama2_trial_chs\Release\Tayutama2_trial_chs.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Tayutama2_trial_chs\Release\Tayutama2_trial_chs.lib" /MACHINE:X86 /SAFESEH /DLL Release\Compressor.obj
+         Release\dllmain.obj
+         Release\FileSystem.obj
+         Release\GetSysInfo.obj
+         Release\HardwareInfo.obj
+         Release\Hash64.obj
+         Release\ImageEx.obj
+         Release\MyNative.obj
+         Release\Tayutama2Hook.obj
+         Release\tayutama2_chs.obj
+         正在生成代码
+         已完成代码的生成
+     1>UCIStatic.lib(UCIDec.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“UCIStatic.lib(UCIDec.obj)”或在“C:\Tayutama2_trial_chs\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>detours.lib(detours.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(detours.obj)”或在“C:\Tayutama2_trial_chs\Release\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>detours.lib(disasm.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(disasm.obj)”或在“C:\Tayutama2_trial_chs\Release\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>lz4.lib(lz4.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“lz4.lib(lz4.obj)”或在“C:\Tayutama2_trial_chs\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         Tayutama2_trial_chs.vcxproj -> C:\Tayutama2_trial_chs\Release\Tayutama2_trial_chs.dll
+     1>已完成生成项目“C:\Tayutama2_trial_chs\Tayutama2_trial_chs\Tayutama2_trial_chs.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.73

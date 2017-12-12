@@ -1,0 +1,59 @@
+Themida - Advanced Windows Software Protection System  [Version 2.3.5.10]
+
+Protection Options for tayutamaFD_chs.dll
+-----------------------------------------
+
+Macros Information
+------------------
+VM Macros: 0
+ENCRYPT Macros: 0
+CLEAR Macros: 0
+MUTATE Macros: 0
+STR_ENCRYPT Macros: 0
+CHECK_PROTECTION Macros: 0
+CHECK_CODE_INTEGRITY Macros: 0
+CHECK_VIRTUAL_PC Macros: 0
+
+
+Protection Options
+------------------
+Anti-Debugger: Ultra
+Anti-Dumpers: ENABLED
+Entry Point Ofuscation: ENABLED
+Taggant Information: DISABLED
+Resource Encryption: ENABLED
+VMWare compatible: ENABLED
+API-Wrapping Level: Level 2
+Anti-Patching: None
+Memory Guard: ENABLED
+When Debugger Found: Exit Silently
+Application compression: DISABLED
+Resources compression: DISABLED
+SecureEngine compression: DISABLED
+Anti-File Monitor: DISABLED
+Anti-Registry Monitor: DISABLED
+Anti-Sandbox tools: DISABLED
+Delphi/BCB form protection: DISABLED
+
+
+Virtual Machine Settings
+------------------------
+Automatic handling of Virtual Machines: ENABLED
+Force Integrity Checks: ENABLED
+Virtual Machines Inserted: 
+--> TIGER32 (Red)
+
+
+Advanced Protection Options
+---------------------------
+Encrypt Application: ENABLED
+DLL plugin: ENABLED
+Hide from PE scanners: Standard
+.NET assemblies: DISABLED
+Active Context: ENABLED
+Add Manifest: Don't add manifest
+
+
+XBundler files
+--------------
+No files to bundle

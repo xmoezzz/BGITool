@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016-05-02 1:51:26 PM。
+     1>项目“c:\Tayutama2_trial_chs\Tayutama2Loader\Tayutama2Loader.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\Tayutama2Loader.res" Tayutama2Loader.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Tayutama2_trial_chs\Release\游魂2Web体验版.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /PDB:"c:\Tayutama2_trial_chs\Release\游魂2Web体验版.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT:NO /IMPLIB:"c:\Tayutama2_trial_chs\Release\游魂2Web体验版.lib" /MACHINE:X86 /SAFESEH Release\Tayutama2Loader.res
+         Release\Main.obj
+         LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+     1>Main.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+     1>Main.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+         Tayutama2Loader.vcxproj -> c:\Tayutama2_trial_chs\Release\游魂2Web体验版.exe
+     1>已完成生成项目“c:\Tayutama2_trial_chs\Tayutama2Loader\Tayutama2Loader.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.18

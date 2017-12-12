@@ -1,0 +1,1 @@
+for %%s in (*.bmp) do SysgrpConverter.exe "%%s"

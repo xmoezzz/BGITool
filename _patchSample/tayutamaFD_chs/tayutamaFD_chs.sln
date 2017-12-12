@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tayutamaFD_chs", "tayutamaFD_chs\tayutamaFD_chs.vcxproj", "{B7F2E244-2309-4E48-9343-288EA5920EEB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tayutamaFDLoader", "tayutamaFDLoader\tayutamaFDLoader.vcxproj", "{2AC2F353-89E0-4208-AD8C-35CDF7ABC374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F2E244-2309-4E48-9343-288EA5920EEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7F2E244-2309-4E48-9343-288EA5920EEB}.Debug|Win32.Build.0 = Debug|Win32
+		{B7F2E244-2309-4E48-9343-288EA5920EEB}.Release|Win32.ActiveCfg = Release|Win32
+		{B7F2E244-2309-4E48-9343-288EA5920EEB}.Release|Win32.Build.0 = Release|Win32
+		{2AC2F353-89E0-4208-AD8C-35CDF7ABC374}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AC2F353-89E0-4208-AD8C-35CDF7ABC374}.Debug|Win32.Build.0 = Debug|Win32
+		{2AC2F353-89E0-4208-AD8C-35CDF7ABC374}.Release|Win32.ActiveCfg = Release|Win32
+		{2AC2F353-89E0-4208-AD8C-35CDF7ABC374}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
